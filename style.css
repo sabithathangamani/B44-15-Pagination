@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(103, 187, 156)
+}
+
+
+table,th,td{
+    border:3px solid black;
+    border-collapse: collapse;
+    margin:40px;
+    margin-left: 300px;
+    text-align: center;
+    width:900px;
+    padding: 18px;  
+    background-color: blanchedalmond ;
+}
+
+.page_container{
+    border:1px solid rgb(95, 92, 92);
+    border-collapse: collapse;
+    /* background-color: white; */
+    color:black;
+    position:absolute;
+    top:680px;
+    left:550px;
+    
+}
+
+.pagenum{
+    color: rgb(224, 230, 233);
+    margin-left: -5px;;
+    /* width: 60px; */
+     padding: 10px;
+     background-color: rgb(85, 86, 82);  
+}
+
+.pagenum:hover{
+    background-color:pink;
+    color:black;
+}
+
+#heading{
+    font-size: larger;
+    color:rgb(152, 59, 95);
+}
+th{
+    background-color: rgb(196, 203, 208);
+}
+
+
+
+
